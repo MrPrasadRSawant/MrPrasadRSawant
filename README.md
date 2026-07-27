@@ -208,25 +208,6 @@ A deployed training management platform supporting platform administrators, tena
 - Calculus
 - Logical reasoning
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MrPrasadRSawant&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Prasad Sawant GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrasadRSawant&layout=compact&hide_border=true"
-    alt="Prasad Sawant Most Used Languages"
-  />
-</p>
-
----
 
 ## Connect With Me
 
